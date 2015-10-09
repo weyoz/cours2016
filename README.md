@@ -4,6 +4,3 @@ kikoo
 
 modif 2
  lololololol
-
-
-test reverse
